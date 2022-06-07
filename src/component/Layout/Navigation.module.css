@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links{
+    color: #182754;
+    font-weight: 900;
+
+}
+
+.badge{
+    background-color: #182754;
+    color: white;
+    border-radius: 50%;
+    padding: 2px;
+    position: relative;
+    bottom: 10px;
+    font-size: 10px;
+    
+}
+
+.navIcon{
+    display: flex;
+}
+
+.navIcon a{
+    margin-left: 20px;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .links{
+        display: none;
+    }
+
+    .logo img{
+        width: 50%;
+    }
+}

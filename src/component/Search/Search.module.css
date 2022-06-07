@@ -1,0 +1,14 @@
+.form img{
+    position: absolute;
+    right: 20px;
+}
+
+.form{
+    position: relative;
+}
+
+.form input{
+    width: 100px;
+    border: none;
+    outline: none;
+}

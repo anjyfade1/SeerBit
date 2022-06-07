@@ -1,0 +1,32 @@
+.cardList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+ .col{
+    flex: 30%;
+}
+
+.productImage img{
+    width: 100%;
+}
+
+.productDetails{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.col{
+    padding: 20px 20px;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .col{
+        flex: 50%;
+    }
+}
