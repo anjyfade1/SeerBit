@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SeerBit/static/css/main.db449ba7.chunk.css",
+    "main.js": "/SeerBit/static/js/main.8edfa971.chunk.js",
+    "main.js.map": "/SeerBit/static/js/main.8edfa971.chunk.js.map",
+    "runtime-main.js": "/SeerBit/static/js/runtime-main.0c6ae6e6.js",
+    "runtime-main.js.map": "/SeerBit/static/js/runtime-main.0c6ae6e6.js.map",
+    "static/js/2.4d0c0343.chunk.js": "/SeerBit/static/js/2.4d0c0343.chunk.js",
+    "static/js/2.4d0c0343.chunk.js.map": "/SeerBit/static/js/2.4d0c0343.chunk.js.map",
+    "index.html": "/SeerBit/index.html",
+    "static/css/main.db449ba7.chunk.css.map": "/SeerBit/static/css/main.db449ba7.chunk.css.map",
+    "static/js/2.4d0c0343.chunk.js.LICENSE.txt": "/SeerBit/static/js/2.4d0c0343.chunk.js.LICENSE.txt",
+    "static/media/1.8919b903.jpg": "/SeerBit/static/media/1.8919b903.jpg",
+    "static/media/2.eee5d687.jpg": "/SeerBit/static/media/2.eee5d687.jpg",
+    "static/media/3.a2cc2462.jpg": "/SeerBit/static/media/3.a2cc2462.jpg",
+    "static/media/4.dc0c1c17.jpg": "/SeerBit/static/media/4.dc0c1c17.jpg",
+    "static/media/5.419a9cf1.jpg": "/SeerBit/static/media/5.419a9cf1.jpg",
+    "static/media/6.23436fb6.jpg": "/SeerBit/static/media/6.23436fb6.jpg",
+    "static/media/SEERBIT.fbf04529.svg": "/SeerBit/static/media/SEERBIT.fbf04529.svg",
+    "static/media/like.cdc4aa1f.svg": "/SeerBit/static/media/like.cdc4aa1f.svg",
+    "static/media/logo.bc5c5208.svg": "/SeerBit/static/media/logo.bc5c5208.svg",
+    "static/media/search.645d09cb.svg": "/SeerBit/static/media/search.645d09cb.svg",
+    "static/media/shop bag.47491ab6.svg": "/SeerBit/static/media/shop bag.47491ab6.svg",
+    "static/media/shopping-cart.3fe98fbf.svg": "/SeerBit/static/media/shopping-cart.3fe98fbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6ae6e6.js",
+    "static/js/2.4d0c0343.chunk.js",
+    "static/css/main.db449ba7.chunk.css",
+    "static/js/main.8edfa971.chunk.js"
+  ]
+}
